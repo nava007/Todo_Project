@@ -1,0 +1,4 @@
+com\todo_project\qa\Base\BaseClass.class
+com\todo_project\qa\Pages\HomePage.class
+com\todo_project\qa\Pages\TasksPage.class
+com\todo_project\qa\TestCases\TestCases.class
